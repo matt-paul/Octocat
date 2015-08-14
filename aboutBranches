@@ -1,1 +1,9 @@
 What is a branch?
+
+A git branch allows work to be split up, and contributions from multiple people that can then be pooled together and merged back into the 'master' branch.
+
+BY default, as master branch is created.  Commits are added to this branch, and form the branches history.
+
+Multiple branches can be worked on at any one time - a new branch could represent a certain feature of the product for example.
+
+Git commits made to this branch would then be added to this branch, until a point when the developer is content with the feature, at which point he can choose to merge back into the master, or perhaps another branch from another developer before committing to the master.
