@@ -1,1 +1,6 @@
 What is 'upstream' remote usually used for?
+
+
+A remote is simply another version of a repository that you are connected to in order to communicate - this might be the 'origin', which is the default name given to the server where the repository originated (by creation within the users profile on github for instance), or it could also be a link to another developers repository.
+
+An upstream remote is used for pushing changes made in your repository, and pulling changes that have occured when another developer has added changes or features.
